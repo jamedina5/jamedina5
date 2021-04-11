@@ -1,6 +1,6 @@
 ### Hi, i`m Jorge Medina 👋
 🌱 I’m currently learning ...
-
+![DSC_0023_00001_01](https://user-images.githubusercontent.com/82322123/114306574-d4e60f00-9ae4-11eb-9a59-2f5e072ad8b1.jpg)
 <!--
 **jamedina5/jamedina5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
