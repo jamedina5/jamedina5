@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, i`m Jorge Medina 👋
+🌱 I’m currently learning ...
 
 <!--
 **jamedina5/jamedina5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
